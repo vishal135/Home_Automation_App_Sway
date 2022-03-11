@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.VideoSurveillanceFragment">
+
+    <RelativeLayout
+        android:id="@+id/no_room_found_rLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:id="@+id/under_construction"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/under_construction"
+            android:layout_centerHorizontal="true"/>
+
+        <TextView
+            android:id="@+id/text2"
+            android:layout_below="@+id/under_construction"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Under Construction!"
+            android:textSize="16sp"
+            android:textColor="#262626"/>
+
+    </RelativeLayout>
+
+</FrameLayout>

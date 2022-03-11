@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Sway</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_saved">Starred</string>
+    <string name="title_search">Search</string>
+    <string name="title_navigation">Cam</string>
+    <string name="title_account">Account</string>
+
+    <string-array name="applianceDropDownList">
+        <item>Choose a category</item>
+        <item>Lights</item>
+        <item>Fans</item>
+        <item>Other</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

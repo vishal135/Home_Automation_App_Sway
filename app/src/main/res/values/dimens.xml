@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Room Recycler View Dimensions -->
+    <dimen name="room_view_left_spacing">25dp</dimen>
+    <dimen name="room_view_right_spacing">25dp</dimen>
+    <dimen name="room_view_top_spacing">8dp</dimen>
+    <dimen name="room_view_bottom_spacing">8dp</dimen>
+
+    <!-- Expandable Layout Recycler View Dimensions -->
+    <dimen name="ex_view_left_spacing">10dp</dimen>
+    <dimen name="ex_view_right_spacing">10dp</dimen>
+    <dimen name="ex_view_top_spacing">10dp</dimen>
+    <dimen name="ex_view_bottom_spacing">10dp</dimen>
+
+</resources>
